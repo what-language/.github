@@ -5,7 +5,7 @@ We designed what-language in the coding language, C.
 
 
 
-[![Website](https://img.shields.io/website?label=what-language.github.io/&style=for-the-badge&url=https%3A%2F%2Fwhat-language.github.io)](https://what-language.github.io)
+[![Website](https://img.shields.io/website?label=what-language.github.io&style=for-the-badge&url=https%3A%2F%2Fwhat-language.github.io)](https://what-language.github.io)
 
 ### Connect with us:
 
