@@ -18,7 +18,6 @@ We designed what-language in the coding language, C.
 
 # Stats and Other
 
-<img src="https://komarev.com/ghpvc/?username=what-language
-" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=what-language" alt="Profile Views" />
 
 [website]: https:/what-language.github.io
